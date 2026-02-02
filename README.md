@@ -18,10 +18,9 @@
 - `Makefile` / `CMakeLists.txt` - 编译配置文件
 
 ## 编译与运行
-
-### 使用 GCC 编译：
-```bash
-gcc main.c -o 2048.exe -lwinmm
+# 双击编译生成的 2048.exe
+# 或在命令行中运行
+./2048.exe
 
 作者
 lizy0627
