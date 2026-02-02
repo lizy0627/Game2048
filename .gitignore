@@ -1,0 +1,57 @@
+# Visual Studio 构建输出
+.vs/
+x64/
+Debug/
+Release/
+build/
+out/
+bin/
+obj/
+
+# Visual Studio 项目文件
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sdf
+
+# 编译生成文件
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.cache
+
+# 预编译头文件
+*.pch
+*.gch
+
+# 其他 Visual Studio 文件
+.vscode/
+*.opendb
+*.opensdf
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+*~
+*.bak
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 源代码备份
+*.orig
