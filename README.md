@@ -22,3 +22,6 @@
 ### 使用 GCC 编译：
 ```bash
 gcc main.c -o 2048.exe -lwinmm
+
+作者
+lizy0627
